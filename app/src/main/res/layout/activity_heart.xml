@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/HRActivityDisplay"
+    android:background="@color/black"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zero.nimo.wearhrm.CurrentHeart"
+    tools:deviceIds="wear">
+<Chronometer
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/timerTrack"
+    android:layout_gravity="center|top"
+    android:layout_marginTop="50dp"
+    />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/heart_icon"
+        android:layout_gravity="center"
+        />
+
+    <ImageButton
+        android:id="@+id/imageStartActivity"
+        android:tag="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:src="@drawable/ic_play"
+        android:layout_marginBottom="16dp"
+        android:layout_gravity="center|bottom"/>
+
+    <TextView
+        android:id="@+id/textBpmActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="@dimen/HeartText" />
+
+    <TextClock
+        android:id="@+id/textClockActivity"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:textAlignment="center"
+        android:paddingTop="8pt"
+        android:paddingBottom="@dimen/recycler_padding"
+        android:background="@color/grey" />
+    <TextView
+        android:id="@+id/textClickActivity"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:textAlignment="center"
+        android:paddingTop="8pt"
+        android:paddingBottom="@dimen/recycler_padding"
+        android:background="@color/grey"
+        android:visibility="invisible"
+        android:text="Tap to Save"
+        />
+
+    <ProgressBar
+        android:id="@+id/progressBarHeartActivity"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:indeterminate="false" />
+</android.support.wearable.view.BoxInsetLayout>

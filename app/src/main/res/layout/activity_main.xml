@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/MainFrameLO"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context="com.zero.nimo.wearhrm.MainActivity"
+    tools:deviceIds="wear">
+
+    <android.support.wearable.view.WearableRecyclerView
+        android:layout_width="match_parent"
+        android:id="@+id/MainWRV"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical">
+
+    </android.support.wearable.view.WearableRecyclerView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:id="@+id/MainHeaderTV"
+        android:paddingTop="@dimen/main_header_space"
+        android:paddingBottom="@dimen/main_header_space"
+        android:background="@color/light_grey"
+        android:text="@string/main_message"/>
+
+
+</FrameLayout>

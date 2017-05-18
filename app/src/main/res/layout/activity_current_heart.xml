@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/HrDisplay"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="match_parent"
+    tools:context="com.zero.nimo.wearhrm.CurrentHeart"
+    tools:deviceIds="wear">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/heart_icon"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/textAcc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="Accuracy" />
+
+    <TextView
+        android:id="@+id/textBpm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30sp" />
+
+    <TextClock
+        android:id="@+id/textClock"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:textAlignment="center"
+        android:paddingTop="8pt"
+        android:paddingBottom="@dimen/recycler_padding"
+        android:background="@color/grey" />
+
+    <ProgressBar
+        android:id="@+id/progressBarHeart"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:indeterminate="false" />
+</android.support.wearable.view.BoxInsetLayout>

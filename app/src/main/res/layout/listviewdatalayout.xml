@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:id="@+id/totalResults"
+    android:layout_gravity="center"
+    android:layout_height="match_parent"
+>
+
+
+    <TextView
+        android:id="@+id/textViewTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Time"
+        android:layout_gravity="center"
+        android:layout_marginLeft="60dp"
+        android:textColor="#050505"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textViewAverage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="..."
+        android:layout_marginLeft="-50dp"
+        android:textColor="#050505"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewDate"
+        android:layout_marginLeft="-60dp"
+        android:layout_marginTop="45dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:textColor="#050505"
+        android:textSize="30sp" />
+
+</LinearLayout>

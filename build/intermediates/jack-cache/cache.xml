@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jer/.android/build-cache/42036235afdc56c44897b5d9b8800229fc2d267c/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-70177a180828b6b436c63b04199cf4751c86c201.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/cfca8c9de04c0ee2851a5256ec20484f49aa86fa/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-79a529ff1693e7575f47ee62b0f3658cb7492d54.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/9a80b9a79d0c7d249ed3a6088918751eedf38311/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-2e45dee11c442b641d1a5c5f9e3937363e6c29d3.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/59933803a9424f1e80f1958458e4c5974592786f/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="cc03ddac6017ba6366944c3eb01efc8751a00a6b">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-2abe7ee752d4306714f2c6e4a005091f02e5424c.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/906d888bc83b7028eafd05d4eae133bda0dfc6b7/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-17209891cb00d9f85a9d89ece368401aa1c31858.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/28015a8c2be8776a731e6fb23f9d7a76fcc21ca5/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-0fea556eadc15a92bdd81f57842280c8d2d7c6fd.jar" />
+    </item>
+    <item
+        jar="/home/jer/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/support-annotations-25.2.0-a96ea7b793ede99818fb6330d7bf885bcb55d46f.jar" />
+    </item>
+    <item
+        jar="/home/jer/Android/Sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/android-58794c1dc1f6782199b99a87fdd3539b951de9f0.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/5c21b3d7d08f5d8841612fa913cba2ee4e7aa79a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-4b8bda92c853907af0f1a1e998f35792166b8557.jar" />
+    </item>
+    <item
+        jar="/home/jer/Android/Sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/org.apache.http.legacy-d8c1c8b864ece04fd8d265d2b217e7ad3ed9dc69.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/f7df9e6c51c3c6c4595095f12452145ddacfec87/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-937fdce882d27900a2b5280d1210ffc9fcce691c.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/b7601dac12ff83208717f621250bbecc391ffdef/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-843fbe01a458ce59a5e4bbec869eaff681ca7618.jar" />
+    </item>
+    <item
+        jar="/home/jer/Android/Sdk/extras/google/m2repository/com/google/android/wearable/wearable/1.0.0/wearable-1.0.0.jar"
+        revision="25.0.2"
+        sha1="0cfa327e31d17a5d556ef054022d20c02fa935b9">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/wearable-1.0.0-e94f90ff8aa97a063e4b9307c79295eb2fb1d4aa.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/9ec70f62dbe8de0e9b8de15bb5ab280623eeed92/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-182e2cada9d63e01693b6f1ac6ab883554e88372.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/a9f913bd90659146c3f6f7e4f5a248431dbc03cb/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="82ee2b306014da82147b5b2f1881bf1260c1e2a9">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-cdab04cb05d30704d4eb0135fc14d816485f2dc5.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/ff6025a21472271452a18172a29d27f7cc2724f7/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-8ed1c10fe2711b3b7470d2300624181fde45c6c9.jar" />
+    </item>
+    <item
+        jar="/home/jer/.android/build-cache/fd7eb6c96852f47296e87a9059de814ff0dc388a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/jer/AndroidStudioProjects/WearHrm/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-9684f98509fac363abf8c6806d5ee7eece538187.jar" />
+    </item>
+
+</items>
